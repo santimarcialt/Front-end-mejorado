@@ -1,1 +1,21 @@
+# Archivos objeto generados al compilar C++
+*.o
+*.obj
 
+# Ejecutables generados
+*.exe
+*.out
+
+# Carpetas de compilación
+build/
+bin/
+Debug/
+Release/
+
+# Archivos temporales de Dev-C++
+*.layout
+*.depend
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
